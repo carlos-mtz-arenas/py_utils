@@ -9,3 +9,8 @@ This is just a collection of scripts I usually use on my daily basis to automate
 * More Stuff
 
 
+INDEX
+=====
+
+* [Send XML files from a directory (actual test case was for sending idocs on a SAP integration) to an endpoint](send_idocs.py)
+* [Resizes images from a directory to an squared image and moves the resized images to a new directory to protect the original ones](resize_images.py) - This one may not be parametrized but works.. I will probably refactor it later!
